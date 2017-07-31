@@ -1,8 +1,8 @@
 {
-  "name": "app",
+  "name": "vue",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "soter",
+  "author": "Soter Padua <spadua@2mundos.net>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
